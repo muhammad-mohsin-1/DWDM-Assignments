@@ -56,8 +56,7 @@ Water Potability dataset to predict whether water is safe for drinking.
 
 ## Dataset Source
 
-Kaggle: https://www.kaggle.com/datasets/adityakadiwal/water-potability
-
+Kaggle: [https://www.kaggle.com/datasets/uom190346a/water-quality-and-potability](url)
 ---
 
 ## Tools Used
